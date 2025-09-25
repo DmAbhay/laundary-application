@@ -15,7 +15,7 @@ export default function Banner() {
 
         {/* Right Corner: Phone Number */}
         <a 
-          href="tel:+911234567890" 
+          href="tel:+918757808656" 
           className="text-blue-900 text-lg font-bold hover:underline"
         >
           📞 +91 12345 67890
