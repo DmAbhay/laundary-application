@@ -18,7 +18,7 @@ export default function Banner() {
           href="tel:+918757808656" 
           className="text-blue-900 text-lg font-bold hover:underline"
         >
-          📞 +91 12345 67890
+          📞 +91 8757808656
         </a>
       </div>
     </div>
