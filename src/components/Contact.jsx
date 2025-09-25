@@ -20,7 +20,7 @@ export default function Contact() {
               <span className="font-semibold text-blue-300">📧 Email:</span> support@laundry.com
             </p>
             <p className="text-lg">
-              <span className="font-semibold text-blue-300">📱 Phone:</span> +91 98765 43210
+              <span className="font-semibold text-blue-300">📱 Phone:</span> +91 8757808656
             </p>
           </div>
         </div>
